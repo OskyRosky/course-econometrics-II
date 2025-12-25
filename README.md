@@ -11,6 +11,7 @@ Building on prior statistical and econometric foundations, this course introduce
 2. Learning Objectives
 
 By the end of this course, students are expected to:
+
 	•	Apply multivariate statistical methods to economic and business data.
 	•	Select appropriate analytical techniques based on data structure and research questions.
 	•	Interpret and communicate complex statistical results clearly.
@@ -22,6 +23,7 @@ By the end of this course, students are expected to:
 3. Core Topics Covered
 
 The course covers a comprehensive set of advanced topics, including:
+
 	•	Multivariate Data Visualization
 	•	Univariate and multivariate graphical representations.
 	•	Correlation analysis and detection of multivariate outliers.
@@ -56,6 +58,7 @@ The course covers a comprehensive set of advanced topics, including:
 4. Tools and Technologies
 
 Throughout the course, students work with modern analytical tools, including:
+
 	•	Statistical computing using R and RStudio.
 	•	Data manipulation, transformation, and visualization.
 	•	R Markdown for reproducible analysis and reporting.
@@ -68,6 +71,7 @@ The emphasis is on practical use of software as a core analytical skill rather t
 5. Methodology and Learning Approach
 
 The course follows a flipped classroom methodology, where:
+
 	•	Conceptual learning and readings are completed outside the classroom.
 	•	Class time is dedicated to applied exercises, case studies, discussion, and problem-solving.
 	•	Students actively engage in collaborative analysis and interpretation of real-world datasets.
@@ -79,6 +83,7 @@ This approach encourages deeper understanding, critical thinking, and hands-on e
 6. Projects and Evaluation
 
 Student learning is reinforced through:
+
 	•	Case studies focused on economic and business scenarios.
 	•	Guided analytical exercises using statistical software.
 	•	A final research project integrating multiple econometric techniques.
@@ -91,6 +96,7 @@ The final project consolidates methodological knowledge and practical skills int
 7. Purpose of This Repository
 
 This repository serves as a structured reference and learning companion for the course. It is designed to:
+
 	•	Organize course materials, presentations, and exercises.
 	•	Support hands-on practice with econometric methods.
 	•	Provide a reusable resource for applied multivariate analysis.
